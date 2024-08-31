@@ -1,0 +1,52 @@
+[
+  {
+    "note": 54,
+    "velocity": 37,
+    "duration": 2.4
+  },
+  {
+    "note": 59,
+    "velocity": 65,
+    "duration": 2.4
+  },
+  {
+    "note": 50,
+    "velocity": 86,
+    "duration": 2.4
+  },
+  {
+    "note": 56,
+    "velocity": 97,
+    "duration": 2.4
+  },
+  {
+    "note": 50,
+    "velocity": 72,
+    "duration": 2.4
+  },
+  {
+    "note": 54,
+    "velocity": 55,
+    "duration": 2.4
+  },
+  {
+    "note": 50,
+    "velocity": 56,
+    "duration": 2.4
+  },
+  {
+    "note": 52,
+    "velocity": 85,
+    "duration": 2.4
+  },
+  {
+    "note": 56,
+    "velocity": 73,
+    "duration": 2.4
+  },
+  {
+    "note": 56,
+    "velocity": 58,
+    "duration": 2.4
+  }
+]
